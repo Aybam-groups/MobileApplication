@@ -1,0 +1,9 @@
+This file is for jenkins groovy script
+We will install
+!/bin/bash
+echo hello Engineer
+echo "Welcome to Scripting"
+echo 'This is the first shell scripting lecture'
+echo 'Todays date is'
+date
+echo "Scripting is very easy"
